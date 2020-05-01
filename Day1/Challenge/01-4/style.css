@@ -8,15 +8,19 @@ body {
 .container {
     background: #23424A;
     color: white;
+    
+    padding: 50px 50px 150px 50px;
+
 
     width: 80%;
+    max-width:750px;
     margin: 0 auto;
     
-    padding: 2em;
     /* height: 300px; */
 }
 
-.intro-container{
+/* Such a fool that i donot put the Class name right! */
+.intro-content{
    /* Wrong Solution use width */
     /* margin:0 auto; */
     width:50%;
