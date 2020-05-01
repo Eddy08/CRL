@@ -17,6 +17,7 @@ body {
 }
 
 .intro-container{
-   
-    margin:0 auto;
+   /* Wrong Solution use width */
+    /* margin:0 auto; */
+    width:50%;
 }
